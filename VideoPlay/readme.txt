@@ -1,9 +1,50 @@
+
+
+ 
+Samsung Tizen WebApp sample :: Video Play & Crop Player
+
+
+
+ 
+[ CONTENTS OVERVIEW ]
+
+1. This application support play the video, capture frame, and crop and save skills.
+
+
+ 
+
+[ INTRODUCTIONS FOR USE ]
+
+1. Play Video Button
+
+ when you touch this button, video file  will be operated and playback
+
+
+
+2. Capture Video Button 
+
+ If you use this button, you can pause the video, and crop image by drag.
+
+
+ 
+3. Crop& Save Button
+
+ You can crop image by drag, and save this image. you can check this crop image under the 'Crop & Save' button and also Local storage.
+
+
+
+:: Demo Video: VideoPlay_simulation.mp4 ::
+
+
+
+
+
 [ VideoPlay 사용 설명서 ]
 
 
  1. 어플 내용
 
- 동영상 화면을 캡쳐하여 원하는 Object를  crop하여 저장할 수 있는 기능을 지원합니다.
+ 동영상 화면을 캡쳐하여 원하는 Object를 crop하여 저장할 수 있는 기능을 지원합니다.
 
 
 
@@ -30,3 +71,4 @@
 
 
  
+:: 해당 앱에 대한 Demo 영상은 VideoPlay_simulation.mp4 에서 확인하실 수 있습니다. 
